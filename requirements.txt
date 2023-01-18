@@ -1,3 +1,5 @@
 msal==1.20.0
 requests==2.28.1
 msal-extensions>=1.0.0
+argparse==1.4.0
+getpass==0.1.7
